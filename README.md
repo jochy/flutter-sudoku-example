@@ -1,16 +1,17 @@
-# sudoku
+# Sudoku game
 
-A new Flutter project.
+Sudoku game implemented using Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Make sure Flutter is installed
+2. Clone repository: `git clone git@github.com:jochy/flutter-sudoku-example.git`
+3. Retrieve dependencies: `flutter pub get`
+4. Run the app
 
-A few resources to get you started if this is your first Flutter project:
+## Improvements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Use float widget layout
+- Use Flutter Casual Game Kit
+- ...
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
