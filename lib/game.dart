@@ -91,7 +91,7 @@ class _GameState extends State<Game> {
                 children: List.generate(
                     4,
                     (index) => ElevatedButton(
-                        onPressed: () => setSelectedCellValue(index + 5, context), child: Text("${index + 5}"))),
+                        onPressed: () => setSelectedCellValue(index + 6, context), child: Text("${index + 6}"))),
               ),
             ),
             ElevatedButton(
